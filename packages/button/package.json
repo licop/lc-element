@@ -10,7 +10,7 @@
     "del": "rimraf dist"
   },
   "keywords": [],
-  "author": "教瘦 <54337467@qq.com>",
+  "author": "licop <1123400714@qq.com>",
   "license": "MIT",
   "dependencies": {
     "lodash": "4"
